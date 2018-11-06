@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Theft Detector</string>
+    <string name="message">Someone Enters your room</string>
+</resources>
